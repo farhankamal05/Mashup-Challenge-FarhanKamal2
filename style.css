@@ -1,0 +1,31 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+/* Modified the CSS to add colors to heading and p tags and have also changed the background color and added a border radius to the img tag */
+
+body{
+  background-color: #85d6ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: #00ffb3;
+}
+
+h3 {
+  color: #0095b3;
+}
+
+p {
+  color: yellow;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 25px;
+}
